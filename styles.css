@@ -1,3 +1,6 @@
-.photo{
+.photoHolder img{
 	width: 100%;
+}
+.photoHolder h3{
+	color: #999;
 }
